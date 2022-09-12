@@ -6,7 +6,3 @@ body {
 	font-size: 14px;
 	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
-.container {
-	min-height: calc(100vh - 152px);
-}
